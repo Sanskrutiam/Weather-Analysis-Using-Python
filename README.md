@@ -30,18 +30,18 @@ Open the Weather-Analysis-Using-Python file in any python text editor or IDE.
 
 Download Weather Data:
 
-If using an API, update the main.py script with your API key and endpoint.
-If using static data, place the CSV/JSON files in the data/ folder.
-Run the Script:
-
-Navigate to the project directory and run:
+- API Method: If using an API, sign up for an API key (e.g., OpenWeatherMap, WeatherStack) and update the main.py script with your API key and endpoint to fetch real-time weather data.
+- Static Data: If using CSV/JSON files, place them in the data/ folder.
+- Install Dependencies: Ensure all required libraries are installed.
+- Run the Analysis: Open a terminal, navigate to the project directory, and run the following command:
 
 ```bash
 python main.py
+
 ```
+This will process the weather data and generate visualizations.
+- View the Results: The script will generate interactive visualizations (temperature trends, humidity, wind speed, etc.).
 
-
-The script generates interactive visualizations and saves them in the images/ folder.
 
 
 ## Objective
@@ -55,9 +55,4 @@ Your Name: Sanskruti Ambavane
 Email: sanskrutiambavane09@gmail.com
 GitHub: https://github.com/Sanskrutiam
 
-## Contact
-For any inquiries or feedback, please reach out to:
 
-Your Name: Sanskruti Ambavane
-Email: sanskrutiambavane09@gmail.com
-GitHub: https://github.com/Sanskrutiam
