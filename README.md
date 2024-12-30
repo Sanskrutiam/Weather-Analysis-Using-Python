@@ -14,9 +14,10 @@ This project focuses on analyzing and visualizing weather data using Python. The
 Download and install Python  from official website.
 
 ```bash
+python main.py
 
 ```
-Open the -- file in any python text editor or IDE.
+Open the Weather-Analysis-Using-Python file in any python text editor or IDE.
 ## Features
 
 - Weather Data Collection: Fetch data from APIs or use static datasets (CSV/JSON).
